@@ -15,7 +15,12 @@ Add a few images or diagrams to support the above.
 * Communications:
   * For Users: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
   * For Developments: [GitHub issue tracker](https://github.com/JuliusSweetland/OptiKey/issues)
-  
+
+## project fit for our book    (or why it was chosen?) 
+As a team we decided to choose a small and smart startup with social contribute and has a massive support from people around the web. This project appears to help people with disabilities and have a good cause and we liked it.
+It also appears to be a promising project which have a great future in the startup industry and health industry .
+
+
 ## Describe the model of the development process:
 This is an open source project and I would love for there to be a community of volunteers around OptiKey. I have a list the length of my arm with ideas, features and improvements. Here's a sample;
 
