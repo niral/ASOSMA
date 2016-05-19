@@ -1,7 +1,5 @@
 
-General details about the project (homepage, repository, development team, communications)
-project fit for our book (why it was chosen?).
-Describe the model of the development process.
+
 Review availaibe resources, especially concerning modeling and architecture (repos, papers, posts, issues/bugs).
 Add a few images or diagrams to support the above.
 
