@@ -3,6 +3,13 @@
 Review availaibe resources, especially concerning modeling and architecture (repos, papers, posts, issues/bugs).
 Add a few images or diagrams to support the above.
 
+# OptiKey
+
+OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with an eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
+
+It works out of the box once you have your eye-tracking device installed and allows selections to be made using dwell selection, buttons, etc. If you do not have an eye tracking device you can use OptiKey with a mouse.
+
+OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.
 
 ## General details about the project: 
 * Homepage: [OptiKey Homepage](https://github.com/OptiKey/OptiKey/wiki)
@@ -14,10 +21,9 @@ Add a few images or diagrams to support the above.
   * For Users: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
   * For Developments: [GitHub issue tracker](https://github.com/JuliusSweetland/OptiKey/issues)
 
-## project fit for our book    (or why it was chosen?) 
+## project fit for our book (or why it was chosen?) 
 As a team we decided to choose a small and smart startup with social contribute and has a massive support from people around the web. This project appears to help people with disabilities and have a good cause and we liked it.
 It also appears to be a promising project which have a great future in the startup industry and health industry .
-
 
 ## Describe the model of the development process:
 This is an open source project and I would love for there to be a community of volunteers around OptiKey. I have a list the length of my arm with ideas, features and improvements. Here's a sample;
