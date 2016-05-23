@@ -34,7 +34,7 @@ Support for accessible buttons, sip/puff tubes, brain potential detection, and l
 and lots more...
 If you are interested in helping to push this project forward please email me at [optikeyfeedback@gmail.com](optikeyfeedback@gmail.com), or if you are a software dev please take a look at the current set of issues on the [GitHub issue tracker](https://github.com/JuliusSweetland/OptiKey/issues).
 
-## availaibe resources  Review
+## Availaibe resources  Review
 OptiKey uses a Low cost certificate for Open Source projects from www.certum.eu wich is one of the main resource available for quick and low cost for a customers production key and certificat .
 
 ![certum Logo](images/cer.PNG)
@@ -59,7 +59,7 @@ c725f6e766c39346446635261317263377a6c316f315f3534302e676966)
   * [When vision becomes verbal](http://www.lawtechnologytoday.org/2015/10/vision-optikey)
 * Bugs & issue
   * [Documented Bugs and issues and github](https://github.com/OptiKey/OptiKey/issues)
-  * 
+   
   
 
 
