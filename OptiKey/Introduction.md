@@ -1,7 +1,5 @@
 
 
-Review availaibe resources, especially concerning modeling and architecture (repos, papers, posts, issues/bugs).
-Add a few images or diagrams to support the above.
 
 # OptiKey
 
