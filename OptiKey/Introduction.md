@@ -37,7 +37,7 @@ If you are interested in helping to push this project forward please email me at
 ## availaibe resources  Review
 OptiKey uses a Low cost certificate for Open Source projects from www.certum.eu wich is one of the main resource available for quick and low cost for a customers production key and certificat .
 
-![cer img](images/cer.png)
+![cerimg](images/cer.png)
 
 OptiKey is allso guided by MSDN user guide and followed by the Microsoft standrats for developing and deployment by .Net framework 4.5 followed by the link attached here :
 [MSDN developer deployment guide](http://msdn.microsoft.com/en-us/library/ee942965%28v=vs.110%29.aspx)
