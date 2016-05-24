@@ -1,3 +1,5 @@
+![certum Logo](images/logo.png)
+<!-- -->
 
 # OptiKey - Class Project
 
